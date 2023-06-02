@@ -1,6 +1,6 @@
 # General
 
-*    What is a binary tree
+    What is a binary tree
 A binary tree is a type of hierarchical data structure that consists of nodes, where each node has at most two children, referred to as the left child and the right child. The structure resembles a tree, with the topmost node called the root.
 
 ## key terms related to binary trees:
@@ -14,11 +14,11 @@ A binary tree is a type of hierarchical data structure that consists of nodes, w
     Height: The maximum depth of any node in the tree.
     Sub-tree: A smaller tree formed by a node and its descendants.
 
-*    What is the difference between a binary tree and a Binary Search Tree
-## A binary tree is a general tree structure where each node can have at most two children, while a binary search tree is a binary tree with an ordering property that allows for efficient searching, insertion, and deletion based on the element values.
+    What is the difference between a binary tree and a Binary Search Tree
+A binary tree is a general tree structure where each node can have at most two children, while a binary search tree is a binary tree with an ordering property that allows for efficient searching, insertion, and deletion based on the element values.
 
-*    What is the possible gain in terms of time complexity compared to linked lists
-## Binary trees offer more efficient search, insertion, and deletion operations compared to linked lists, particularly when the binary tree is balanced. However, in the worst case of an unbalanced binary tree, the time complexity can degrade to be similar to or worse than linked lists. Linked lists have a linear search time complexity, but they can offer constant-time insertion and deletion at the beginning or end of the list.
+    What is the possible gain in terms of time complexity compared to linked lists
+Binary trees offer more efficient search, insertion, and deletion operations compared to linked lists, particularly when the binary tree is balanced. However, in the worst case of an unbalanced binary tree, the time complexity can degrade to be similar to or worse than linked lists. Linked lists have a linear search time complexity, but they can offer constant-time insertion and deletion at the beginning or end of the list.
 
 *    What are the depth, the height, the size of a binary tree
 *    What are the different traversal methods to go through a binary tree
